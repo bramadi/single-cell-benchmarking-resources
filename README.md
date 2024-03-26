@@ -13,3 +13,9 @@ Ziegenhain, C., Vieth, B., Parekh, S., Reinius, B., Guillaumet-Adkins, A., Smets
 
 Chen, J., Cheung, F., Shi, R., Zhou, H., & Lu, W. (2018). PBMC fixation and processing for Chromium single-cell RNA sequencing. Journal of Translational Medicine, 16(1). doi:10.1186/s12967-018-1578-4 
 
+### Dataset
+
+PBMCs:
+- Data set of PBMCs measured with CITE-seq (211,000 cells).
+First presented in the Seurat v4 paper: Hao et al, 2021, Cell 184, 3573-3587. https://doi.org/10.1016/j.cell.2021.04.048
+Containing PBMC samples from 8 volunteers in an HIV vaccine trial, measured at 3 time points;  resulting in 24 batches in this dataset.
