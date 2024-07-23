@@ -11,7 +11,13 @@ Yamawaki, T. M., Lu, D. R., Ellwanger, D. C., Bhatt, D., Manzanillo, P., Arias, 
 
 Ziegenhain, C., Vieth, B., Parekh, S., Reinius, B., Guillaumet-Adkins, A., Smets, M., Leonhardt, H., Heyn, H., Hellmann, I., & Enard, W. (2017). Comparative Analysis of Single-Cell RNA Sequencing Methods. Molecular Cell, 65(4), 631-643.e4. https://doi.org/10.1016/j.molcel.2017.01.023
 
-Chen, J., Cheung, F., Shi, R., Zhou, H., & Lu, W. (2018). PBMC fixation and processing for Chromium single-cell RNA sequencing. Journal of Translational Medicine, 16(1). doi:10.1186/s12967-018-1578-4 
+Chen, J., Cheung, F., Shi, R., Zhou, H., & Lu, W. (2018). PBMC fixation and processing for Chromium single-cell RNA sequencing. Journal of Translational Medicine, 16(1). doi:10.1186/s12967-018-1578-4
+
+Chen, W., Zhao, Y., Chen, X., Yang, Z., Xu, X., Bi, Y., Chen, V., Li, J., Choi, H., Ernest, B., Tran, B., Mehta, M., Kumar, P., Farmer, A., Mir, A., Mehra, U. A., Li, J.-L., Moos, M., Xiao, W., & Wang, C. (2021). A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples. Nature Biotechnology, 39(9), 1103–1114. https://doi.org/10.1038/s41587-020-00748-9
+
+Hornung, B. V. H., Azmani, Z., den Dekker, A. T., Oole, E., Ozgur, Z., Brouwer, R. W. W., van den Hout, M. C. G. N., & van IJcken, W. F. J. (2023). Comparison of Single Cell Transcriptome Sequencing Methods: Of Mice and Men. Genes, 14(12), 2226. https://doi.org/10.3390/genes14122226
+
+Xie, Y., Chen, H., Chellamuthu, V. R., Lajam, A. bin M., Albani, S., Low, A. H. L., Petretto, E., & Behmoaras, J. (2024). Comparative Analysis of Single-Cell RNA Sequencing Methods with and without Sample Multiplexing. International Journal of Molecular Sciences, 25(7), 3828. https://doi.org/10.3390/ijms25073828
 
 ### Dataset
 
